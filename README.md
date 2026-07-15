@@ -143,7 +143,7 @@ The dashboard enables stakeholders to:
 ## 📸 Dashboard Preview
 
 > ## Executive Dashboard
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive_Dashboard.png) ![Sales Dashboard](Images/Sales_Dashboard.png)
 
 > ## Sales Dashboard
 ![Sales Dashboard](Images/Sales_Dashboard.png)
