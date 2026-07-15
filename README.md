@@ -142,17 +142,18 @@ The dashboard enables stakeholders to:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboards here.
+> ## Executive Dashboard
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
-Example:
+> ## Sales Dashboard
+![Sales Dashboard](Images/Sales_Dashboard.png)
 
-```
-images/
-│── Executive Dashboard.png
-│── Sales Dashboard.png
-│── Customer Dashboard.png
-│── Mall Dashboard.png
-```
+> ## Customer Dashboard
+![Customer Dashboard](Images/Customer_Dashboard.png)
+
+> ## Mall Dashboard
+![Mall Dashboard](Images/Mall_Dashboard.png)
+
 
 ---
 
